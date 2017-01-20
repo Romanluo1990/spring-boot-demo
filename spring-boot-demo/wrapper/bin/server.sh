@@ -13,10 +13,10 @@
 # These settings can be modified to fit the needs of your application
 
 # Application
-APP_NAME="fund_calculator"
-APP_LONG_NAME="fund_calculator"
+APP_NAME="spring-boot-demo"
+APP_LONG_NAME="spring-boot-demo"
 
-export LANG=zh_CN.gbk
+export LANG=zh_CN.UTF-8
 
 # Wrapper
 WRAPPER_CMD="./wrapper"
